@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68bca9f0-dec4-4e96-8577-26fa92866c1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/proto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHANGES.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enum.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enum_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extensions.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extensions_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/field.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/field_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/group.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/group_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/message.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/message_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oneof.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oneof_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/option.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/option_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parent_accessor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parent_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parser.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parser_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proto.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/protobuf_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/range.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/range_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reserved.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reserved_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/syntax.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/syntax_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/token.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/token_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visitor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visitor_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walk.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walk_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,9 +32,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/walk.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
+            <state relative-caret-position="425">
               <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
             </state>
           </provider>
@@ -99,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/go.mod" />
         <option value="$PROJECT_DIR$/walk.go" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -166,7 +128,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Statistic" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3292232" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -197,6 +159,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/walk.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/go.mod">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -204,10 +173,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/walk.go">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+        <state relative-caret-position="144">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
